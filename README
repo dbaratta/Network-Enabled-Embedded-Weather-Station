@@ -1,0 +1,24 @@
+*******************************************************************************
+Network Enabled Weather Station Readme
+
+Project Created By: Dominic Baratta, October 2011
+Project Based Off Of: Arduino, Arduino Ethernet Shield, Arduino Ethernet Pro,
+					  Sparkfun USB Weather Board
+					  
+Relevant Project Links:
+Arduino: http://arduino.cc/en/Main/ArduinoBoardUno
+Arduino Ehternet Shield: http://arduino.cc/en/Main/ArduinoEthernetShield
+Arduino Ethernet Pro: http://www.sparkfun.com/products/10536
+Sparkfun USB Weather Board: http://www.sparkfun.com/products/10586
+
+This project would not be possible without the dedication and hard work of the
+volunteers / employees of the organizations listed above.
+
+License: Creative Commons Share-ALike 3.0
+*******************************************************************************
+
+Project Goal:
+To create a network enabled / connected weather board similar to the one
+Sparkfun produces, which is able to either predict future weather on its own,
+or provide server side software which is capable of doing this based off of
+past weather readings.
