@@ -1,4 +1,4 @@
-update=Tue 01 Nov 2011 01:13:09 PM EDT
+update=Sun 18 Dec 2011 05:37:25 PM EST
 last_client=eeschema
 [eeschema]
 version=1
@@ -63,3 +63,4 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
+LibName32=w5100
