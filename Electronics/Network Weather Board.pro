@@ -1,5 +1,5 @@
-update=Sun 18 Dec 2011 05:37:25 PM EST
-last_client=eeschema
+update=Fri 13 Jan 2012 11:35:06 AM EST
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=
@@ -64,3 +64,34 @@ LibName29=atmel
 LibName30=contrib
 LibName31=valves
 LibName32=w5100
+LibName33=rj45-mag
+[pcbnew]
+version=1
+PadDrlX=320
+PadDimH=600
+PadDimV=600
+BoardThickness=630
+SgPcb45=1
+TxtPcbV=800
+TxtPcbH=600
+TxtModV=600
+TxtModH=600
+TxtModW=120
+VEgarde=100
+DrawLar=150
+EdgeLar=150
+TxtLar=120
+MSegLar=150
+LastNetListRead=
+[pcbnew/libraries]
+LibDir=
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=pin_array
+LibName5=divers
+LibName6=libcms
+LibName7=display
+LibName8=valves
+LibName9=led
+LibName10=dip_sockets
